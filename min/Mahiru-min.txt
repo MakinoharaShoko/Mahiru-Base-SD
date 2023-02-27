@@ -1,0 +1,10 @@
+((best quality,masterpiece)),an extremely delicate and beautiful girl,mahiru shiina,brown eyes, looking at viewer,light linen long hair,disheveled bangs,smile,round eyes,hairs between eyes,small breasts
+
+bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry,missing fingers,bad hands,missing arms, long neck, Humpbacked, deformed, bad anatomy, disfigured, poorly drawn face, mutation, mutated, extra limb, ugly, poorly drawn hands, missing limb, floating limbs, disconnected limbs, malformed hands, out of focus, long neck, long body, monochrome, watermark, signature, logo, name
+
+Steps: 20, Sampler: DPM++ 2M Karras, CFG scale: 8, Seed: 2548838676, Size: 512x512, Model hash: 672977e447, Model: Anime, ControlNet Enabled: True, ControlNet Module: canny, ControlNet Model: control_any3_canny [95070f75], ControlNet Weight: 1, ControlNet Guidance Strength: 1
+
+
+Optional::,(abstract background:0.9),ligne claire,(chibi)
+
+512*340 zoom 2
