@@ -8,3 +8,6 @@ Steps: 20, Sampler: DPM++ 2M Karras, CFG scale: 8, Seed: 2548838676, Size: 512x5
 Optional::,(abstract background:0.9),ligne claire,(chibi)
 
 512*340 zoom 2
+
+好图参考：
+((best quality,masterpiece)),an extremely beautiful girl,blue eyes, looking at viewer,black long hair,disheveled bangs,smile,round eyes,hairs between eyes,small breasts,beautiful sky,long straight hair,western school uniform,black plaid skirt,chibi,city,(night view),Hong Kong,Guangdong,buildings,flowers Headwear,(street)
