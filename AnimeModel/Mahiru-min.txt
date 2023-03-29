@@ -6,4 +6,6 @@ Steps: 20, Sampler: DPM++ SDE Karras, CFG scale: 8, Seed: 2548838676, Size: 512x
 
 320*560
 
+360*640
+
 Optional::,(abstract background:0.9),ligne claire,(chibi)
