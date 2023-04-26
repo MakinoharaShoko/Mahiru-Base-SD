@@ -1,0 +1,2 @@
+masterpiece, best quality,an extremely delicate and beautiful girl,light flaxen detailed long straight hair,jk uniform, western style uniform, plaid skirt,in the campus,mahiru shiina,beautiful detailed brown eyes, looking at viewer,(whole body),happy smile,long straight bangs,round yellow eyes,full-body,(small breasts)
+Steps: 40, Sampler: Euler a, CFG scale: 7, Seed: 3344356924, Size: 576x832, Model hash: 83426ab8af, Model: TMND-Mix, Denoising strength: 0.2, Hires upscale: 2, Hires upscaler: R-ESRGAN 4x+
