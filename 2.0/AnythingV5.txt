@@ -1,0 +1,7 @@
+masterpiece, best quality, ligne claire, lineart, illustration, light novel illustration, 1girl,mahiru shiina, light brown color hair, long and straight hair, buautiful sky, Shanghai Bund, Shanghai Center tower, night view, beautiful brownish yellow eyes, looking at viewer, happy smile, long straight disheveled bangs, round eyes, (small breasts)
+Negative prompt: badhandv4, EasyNegative, verybadimagenegative_v1.3, (worst quality:2), (low quality:2), lowres, bad anatomy, 3d
+Steps: 22, Sampler: DPM++ 2M Karras, CFG scale: 7, Seed: 2423659947, Size: 450x800, Model hash: 7f96a1a9ca, Model: AnythingV5, Denoising strength: 0.3, Hires upscale: 2, Hires steps: 10, Hires upscaler: R-ESRGAN 4x+ Anime6B
+
+
+
+Used embeddings: badhandv4 [dba1], EasyNegative [119b], verybadimagenegative_v1.3 [89de]

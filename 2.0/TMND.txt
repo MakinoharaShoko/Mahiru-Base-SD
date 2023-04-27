@@ -1,0 +1,7 @@
+masterpiece, best quality, winter, snow field, 1girl, bangs, blue eyes, blunt bangs, bonnet, brown footwear, brown hair, dress, frills, fruit, full body, hat, long hair, long sleeves, looking at viewer, pantyhose, purple dress, red flower, red rose, rose, shoes, sitting, solo, sky, sun, mountain, forest, lake
+Negative prompt: badhandv4, EasyNegative, verybadimagenegative_v1.3,illustration, 3d, sepia, painting, cartoons, sketch, (worst quality:2), (low quality:2), (normal quality:2), lowres, bad anatomy, normal quality, ((monochrome)), ((grayscale))
+Steps: 40, Sampler: Euler a, CFG scale: 7, Seed: 311191111, Size: 450x800, Model hash: 83426ab8af, Model: TMND-Mix, Denoising strength: 0.2, Hires upscale: 2, Hires steps: 20, Hires upscaler: R-ESRGAN 4x+
+
+
+
+Used embeddings: badhandv4 [dba1], EasyNegative [119b], verybadimagenegative_v1.3 [89de]
