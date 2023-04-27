@@ -1,0 +1,3 @@
+masterpiece, best quality, 1girl, long and straight black hair, buautiful sky, in the campus, plaid skirt, walking in the campus, (cherry tree), beautiful brownish yellow eyes, looking at viewer, happy smile, waving hands, long straight bangs, round eyes, chibi
+Negative prompt: badhandv4, EasyNegative, (worst quality:2), (low quality:2), lowres, bad anatomy, ((monochrome)), ((grayscale))
+Steps: 32, Sampler: DPM++ 2M Karras, CFG scale: 7, Seed: 2520686734, Size: 320x640, Model hash: 672977e447, Model: Anime, Denoising strength: 0.6, Hires upscale: 2, Hires steps: 10, Hires upscaler: R-ESRGAN 4x+ Anime6B
