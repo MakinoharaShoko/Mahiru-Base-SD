@@ -1,0 +1,7 @@
+1girl, mahiru shiina, light brown color hair, long and straight hair, buautiful sky, in the campus, plaid skirt, draw closer, cherry tree, beautiful brownish yellow eyes, looking at viewer, happy smile, waving hands, long straight disheveled bangs, round eyes
+Negative prompt: badhandv4, EasyNegative, verybadimagenegative_v1.3, dark, (backlighting:2), sepia, (worst quality:2), (low quality:2), lowres, bad anatomy, normal quality, ((monochrome)), ((grayscale))
+Steps: 64, Sampler: DPM++ 2M Karras, CFG scale: 7, Seed: 2759667587, Size: 450x800, Model hash: 0cb6b38eed, Model: yden, Denoising strength: 0.4, Hires upscale: 2, Hires steps: 10, Hires upscaler: R-ESRGAN 4x+ Anime6B
+
+
+
+Used embeddings: badhandv4 [dba1], EasyNegative [119b], verybadimagenegative_v1.3 [89de]
