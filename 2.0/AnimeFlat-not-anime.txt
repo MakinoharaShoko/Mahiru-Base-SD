@@ -1,0 +1,7 @@
+masterpiece, best quality,ligne claire, 1girl, pale flaxen color hair, ((very long and straight hair)), (very long hair), schoolgirl, ((plaid knee length skirt)), buautiful sky, in the campus, in the classroom, beautiful brownish yellow eyes, looking at viewer, happy smile, long straight bob cut bangs, round eyes, (small breasts)
+Negative prompt: badhandv4, EasyNegative, verybadimagenegative_v1.3
+Steps: 32, Sampler: DPM++ 2M Karras, CFG scale: 7, Seed: 1740356, Size: 540x960, Model hash: 8405cfe5d5, Model: Aniflatmix, Denoising strength: 0.6, Hires upscale: 2, Hires steps: 32, Hires upscaler: R-ESRGAN 4x+ Anime6B
+
+
+
+Used embeddings: badhandv4 [dba1], EasyNegative [119b], verybadimagenegative_v1.3 [89de]
