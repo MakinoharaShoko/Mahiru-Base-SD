@@ -1,0 +1,7 @@
+(best quality),offical, illustration, line art,((masterpiece)),highres highres, original, extremely detailed wallpaper,official art,finely detail,extremely detailed CG 8k wallpaper,(an extremely delicate and beautiful girl),amazing,beautiful detailed brown eyes, looking at viewer,light brown and yellow and white long disheveled hair,whole body,school uniform,((mahiru shiina)),(gentle soft tender face),straight bangs,jk,brown plaid skirt,white shirt,red bow tie,smile,round eyes, beautiful detailed sky,beautiful detailed water,hands behind,full-body,pure,clean strokes,white hair,hairs between eyes,long bangs,big forhead,(small breasts)
+Negative prompt: nsfw,lowres, bad anatomy, bad hands,badhandv4, EasyNegative, verybadimagenegative_v1.3
+Steps: 32, Sampler: DPM++ 2M Karras, CFG scale: 7, Seed: 3149824373, Size: 540x960, Model hash: 7f96a1a9ca, Model: AnythingV5, Denoising strength: 0.6, Hires upscale: 2, Hires steps: 32, Hires upscaler: R-ESRGAN 4x+ Anime6B
+
+
+
+Used embeddings: badhandv4 [dba1], EasyNegative [119b], verybadimagenegative_v1.3 [89de]
