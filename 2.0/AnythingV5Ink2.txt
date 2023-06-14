@@ -1,0 +1,3 @@
+(best quality),((masterpiece)),(an extremely delicate and beautiful girl),(mahiru shiina),beautiful detailed brown eyes, looking at viewer,light flaxen and white long disheveled hair,whole body,straight disheveled bangs,hairs between eyes,(small breasts), (sing), live, (idol), ((happy)),open mouth, very happy,(on the stage),(on the live)
+Negative prompt: nsfw,lowres, bad anatomy, bad hands,badhandv4, EasyNegative, verybadimagenegative_v1.3
+Steps: 32, Sampler: DPM++ 2M Karras, CFG scale: 7, Seed: 1940015541, Size: 450x800, Model hash: 7f96a1a9ca, Model: AnythingV5Ink_v5PrtRE, Denoising strength: 0.75, Hires upscale: 2, Hires steps: 16, Hires upscaler: Latent, Version: v1.3.2
