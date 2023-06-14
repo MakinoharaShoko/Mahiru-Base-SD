@@ -1,0 +1,3 @@
+(best quality),((masterpiece)),(an extremely delicate and beautiful girl),beautiful detailed brown eyes, looking at viewer,light brown and yellow and white long disheveled hair,whole body,school uniform,((mahiru shiina)),straight bangs,jk,brown plaid skirt,white shirt,red bow tie,smile,round eyes, beautiful detailed sky,beautiful detailed water,hands behind,full-body,pure,clean strokes,white hair,hairs between eyes,long bangs,big forhead,(small breasts)
+Negative prompt: nsfw,lowres, bad anatomy, bad hands,badhandv4, EasyNegative, verybadimagenegative_v1.3
+Steps: 20, Sampler: DPM++ 2M Karras, CFG scale: 7, Seed: 1588131141, Size: 640x960, Model hash: 7f96a1a9ca, Model: AnythingV5Ink_v5PrtRE, Version: v1.3.2
